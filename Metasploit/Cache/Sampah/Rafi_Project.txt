@@ -1,0 +1,20 @@
+
+Script By Rafi Project
+
+Ketentuan
+1. Jangan Di Sebar Luaskan Scriptnya
+2. Script Ini Menggunakan Database Publik In storage My Computer
+3. Data Data Kalian Di Jamin Aman Karna Sudah Menggunakan Enskripsi end to end
+4. Kalian Boleh Mengubah Bagian Dari Scriptnya Tapi Jangan Terlalu Brutal
+5. Script My Base By Rafi Project
+6. Sebelum Run Bot Wajib Ganti Nomor Bot Di Dalam File Ruang_Ganti-Ganti
+7. Pemakain Limit Storage 5000/Hari Limit Habis Bot Bakal Kagak Ada Respon
+8. System Kamu Menggunakan Bypass true or false Di Bagian Connection Kalo Udah False Jangan Berharap Kalo Nomor Whatsappnya Masih Bisa Di Gunakan
+
+Misi Kami
+1. Mohon Bantuannya Kepada Seluruh User Script Patuhi Ketentuan Yang Berlaku
+2. Yang Mau Donasi Buat Pengembangan Script Boleh Saja Chat Aja Developer
+3. Script Ini Masih Tahap Pengembangan Jadi Scriptnya Kamu Enc Buat Sementara
+4. Enc nya Kamu
+        
+ 
