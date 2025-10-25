@@ -16,7 +16,6 @@
   <p>
     <a href="https://github.com/RafiBukanDeveloper/Metasploit-WaBot/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-informational"></a>
     <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen">
-    <a href="https://dsc.gg/natsumiworld"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white"></a>
   </p>
 </div>
 
